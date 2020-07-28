@@ -1,0 +1,12 @@
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v13\TienLen_v13\TienLen\ServerBackup\bin\Debug\ServerBackup.exe.config
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v13\TienLen_v13\TienLen\ServerBackup\bin\Debug\ServerBackup.exe
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v13\TienLen_v13\TienLen\ServerBackup\bin\Debug\ServerBackup.pdb
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v13\TienLen_v13\TienLen\ServerBackup\obj\Debug\ServerBackup.exe
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v13\TienLen_v13\TienLen\ServerBackup\obj\Debug\ServerBackup.pdb
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v13\TienLen_v13\TienLen\ServerBackup\obj\Debug\ServerBackup.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_PreComplete_v1\TienLen_v13\TienLen_v13\TienLen\ServerBackup\bin\Debug\ServerBackup.exe.config
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_PreComplete_v1\TienLen_v13\TienLen_v13\TienLen\ServerBackup\bin\Debug\ServerBackup.exe
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_PreComplete_v1\TienLen_v13\TienLen_v13\TienLen\ServerBackup\bin\Debug\ServerBackup.pdb
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_PreComplete_v1\TienLen_v13\TienLen_v13\TienLen\ServerBackup\obj\Debug\ServerBackup.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_PreComplete_v1\TienLen_v13\TienLen_v13\TienLen\ServerBackup\obj\Debug\ServerBackup.exe
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_PreComplete_v1\TienLen_v13\TienLen_v13\TienLen\ServerBackup\obj\Debug\ServerBackup.pdb

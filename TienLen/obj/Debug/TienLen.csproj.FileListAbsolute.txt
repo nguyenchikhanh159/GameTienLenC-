@@ -1,0 +1,48 @@
+c:\users\hoang thang\documents\visual studio 2015\Projects\TienLen\TienLen\bin\Debug\TienLen.exe.config
+C:\Users\Hoang Thang\Documents\Visual Studio 2015\Projects\TienLen\TienLen\obj\Debug\TienLen.csprojResolveAssemblyReference.cache
+C:\Users\Hoang Thang\documents\visual studio 2015\Projects\TienLen\TienLen\bin\Debug\TienLen.exe
+C:\Users\Hoang Thang\documents\visual studio 2015\Projects\TienLen\TienLen\bin\Debug\TienLen.pdb
+C:\Users\Hoang Thang\documents\visual studio 2015\Projects\TienLen\TienLen\obj\Debug\TienLen.exe
+C:\Users\Hoang Thang\documents\visual studio 2015\Projects\TienLen\TienLen\obj\Debug\TienLen.pdb
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen\TienLen\bin\Debug\TienLen.exe.config
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen\TienLen\bin\Debug\TienLen.exe
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen\TienLen\bin\Debug\TienLen.pdb
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen\TienLen\obj\Debug\TienLen.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen\TienLen\obj\Debug\TienLen.exe
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen\TienLen\obj\Debug\TienLen.pdb
+E:\download\plaid\TienLen\TienLen\bin\Debug\TienLen.exe.config
+E:\download\plaid\TienLen\TienLen\obj\Debug\TienLen.exe
+E:\download\plaid\TienLen\TienLen\obj\Debug\TienLen.pdb
+E:\HocKi4\LapTrinhMangCanBan\project\TienLen\TienLen\bin\Debug\TienLen.exe.config
+E:\HocKi4\LapTrinhMangCanBan\project\TienLen\TienLen\obj\Debug\TienLen.exe
+E:\HocKi4\LapTrinhMangCanBan\project\TienLen\TienLen\obj\Debug\TienLen.pdb
+E:\HocKi4\LapTrinhMangCanBan\project\TienLen\TienLen\bin\Debug\TienLen.exe
+E:\HocKi4\LapTrinhMangCanBan\project\TienLen\TienLen\bin\Debug\TienLen.pdb
+E:\HocKi4\LapTrinhMangCanBan\project\TienLen\TienLen\obj\Debug\TienLen.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2017\TienLen\TienLen\bin\Debug\TienLen.exe.config
+C:\Users\Dell\Documents\Visual Studio 2017\TienLen\TienLen\bin\Debug\TienLen.exe
+C:\Users\Dell\Documents\Visual Studio 2017\TienLen\TienLen\bin\Debug\TienLen.pdb
+C:\Users\Dell\Documents\Visual Studio 2017\TienLen\TienLen\obj\Debug\TienLen.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2017\TienLen\TienLen\obj\Debug\TienLen.exe
+C:\Users\Dell\Documents\Visual Studio 2017\TienLen\TienLen\obj\Debug\TienLen.pdb
+E:\HocKi4\LapTrinhMangCanBan\project\TienLen_v9\TienLen\TienLen\bin\Debug\TienLen.exe.config
+E:\HocKi4\LapTrinhMangCanBan\project\TienLen_v9\TienLen\TienLen\obj\Debug\TienLen.exe
+E:\HocKi4\LapTrinhMangCanBan\project\TienLen_v9\TienLen\TienLen\obj\Debug\TienLen.pdb
+E:\HocKi4\LapTrinhMangCanBan\project\TienLen_v9.1\TienLen_v9\TienLen\TienLen\bin\Debug\TienLen.exe.config
+E:\HocKi4\LapTrinhMangCanBan\project\TienLen_v9.1\TienLen_v9\TienLen\TienLen\obj\Debug\TienLen.exe
+E:\HocKi4\LapTrinhMangCanBan\project\TienLen_v9.1\TienLen_v9\TienLen\TienLen\obj\Debug\TienLen.pdb
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v11\TienLen\TienLen\bin\Debug\TienLen.exe.config
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v11\TienLen\TienLen\bin\Debug\TienLen.exe
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v11\TienLen\TienLen\bin\Debug\TienLen.pdb
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v11\TienLen\TienLen\obj\Debug\TienLen.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v11\TienLen\TienLen\obj\Debug\TienLen.exe
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v11\TienLen\TienLen\obj\Debug\TienLen.pdb
+E:\HocKi4\LapTrinhMangCanBan\project\TienLen_v12_new\TienLen_v11\TienLen\TienLen\bin\Debug\TienLen.exe.config
+E:\HocKi4\LapTrinhMangCanBan\project\TienLen_v12_new\TienLen_v11\TienLen\TienLen\obj\Debug\TienLen.exe
+E:\HocKi4\LapTrinhMangCanBan\project\TienLen_v12_new\TienLen_v11\TienLen\TienLen\obj\Debug\TienLen.pdb
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v13\TienLen_v13\TienLen\TienLen\bin\Debug\TienLen.exe.config
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v13\TienLen_v13\TienLen\TienLen\bin\Debug\TienLen.exe
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v13\TienLen_v13\TienLen\TienLen\bin\Debug\TienLen.pdb
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v13\TienLen_v13\TienLen\TienLen\obj\Debug\TienLen.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v13\TienLen_v13\TienLen\TienLen\obj\Debug\TienLen.exe
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v13\TienLen_v13\TienLen\TienLen\obj\Debug\TienLen.pdb

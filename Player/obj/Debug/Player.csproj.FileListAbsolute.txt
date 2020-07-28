@@ -1,0 +1,123 @@
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen\Player\obj\Debug\Player.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen\Player\obj\Debug\HienBai.Form1.resources
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen\Player\obj\Debug\Player.Properties.Resources.resources
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen\Player\obj\Debug\Player.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen\Player\bin\Debug\Player.exe.config
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen\Player\bin\Debug\Player.exe
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen\Player\bin\Debug\Player.pdb
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen\Player\obj\Debug\Player.exe
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen\Player\obj\Debug\Player.pdb
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen\Player\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen\Player\bin\Debug\Newtonsoft.Json.xml
+E:\download\plaid\TienLen\Player\bin\Debug\Player.exe.config
+E:\download\plaid\TienLen\Player\obj\Debug\Player.exe
+E:\download\plaid\TienLen\Player\obj\Debug\Player.pdb
+E:\download\plaid\TienLen\Player\bin\Debug\Player.exe
+E:\download\plaid\TienLen\Player\bin\Debug\Player.pdb
+E:\download\plaid\TienLen\Player\bin\Debug\Newtonsoft.Json.dll
+E:\download\plaid\TienLen\Player\bin\Debug\Newtonsoft.Json.xml
+E:\download\plaid\TienLen\Player\obj\Debug\Player.csprojResolveAssemblyReference.cache
+E:\download\plaid\TienLen\Player\obj\Debug\HienBai.Form1.resources
+E:\download\plaid\TienLen\Player\obj\Debug\Player.Properties.Resources.resources
+E:\download\plaid\TienLen\Player\obj\Debug\Player.csproj.GenerateResource.Cache
+E:\HocKi4\LapTrinhMangCanBan\project\TienLen\Player\bin\Debug\Player.exe.config
+E:\HocKi4\LapTrinhMangCanBan\project\TienLen\Player\obj\Debug\Player.exe
+E:\HocKi4\LapTrinhMangCanBan\project\TienLen\Player\obj\Debug\Player.pdb
+E:\HocKi4\LapTrinhMangCanBan\project\TienLen\Player\bin\Debug\Player.exe
+E:\HocKi4\LapTrinhMangCanBan\project\TienLen\Player\bin\Debug\Player.pdb
+E:\HocKi4\LapTrinhMangCanBan\project\TienLen\Player\bin\Debug\Newtonsoft.Json.dll
+E:\HocKi4\LapTrinhMangCanBan\project\TienLen\Player\bin\Debug\Newtonsoft.Json.xml
+E:\HocKi4\LapTrinhMangCanBan\project\TienLen\Player\obj\Debug\Player.csprojResolveAssemblyReference.cache
+E:\HocKi4\LapTrinhMangCanBan\project\TienLen\Player\obj\Debug\HienBai.Form1.resources
+E:\HocKi4\LapTrinhMangCanBan\project\TienLen\Player\obj\Debug\Player.Properties.Resources.resources
+E:\HocKi4\LapTrinhMangCanBan\project\TienLen\Player\obj\Debug\Player.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\Visual Studio 2017\TienLen\Player\bin\Debug\Player.exe.config
+C:\Users\Dell\Documents\Visual Studio 2017\TienLen\Player\bin\Debug\Player.exe
+C:\Users\Dell\Documents\Visual Studio 2017\TienLen\Player\bin\Debug\Player.pdb
+C:\Users\Dell\Documents\Visual Studio 2017\TienLen\Player\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\Documents\Visual Studio 2017\TienLen\Player\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dell\Documents\Visual Studio 2017\TienLen\Player\obj\Debug\Player.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2017\TienLen\Player\obj\Debug\Player.Properties.Resources.resources
+C:\Users\Dell\Documents\Visual Studio 2017\TienLen\Player\obj\Debug\Player.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\Visual Studio 2017\TienLen\Player\obj\Debug\Player.exe
+C:\Users\Dell\Documents\Visual Studio 2017\TienLen\Player\obj\Debug\Player.pdb
+C:\Users\Dell\Documents\Visual Studio 2017\TienLen\Player\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Dell\Documents\Visual Studio 2017\TienLen\Player\obj\Debug\HienBai.Form1.resources
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen\Player\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v9\TienLen\Player\bin\Debug\Player.exe.config
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v9\TienLen\Player\bin\Debug\Player.exe
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v9\TienLen\Player\bin\Debug\Player.pdb
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v9\TienLen\Player\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v9\TienLen\Player\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v9\TienLen\Player\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v9\TienLen\Player\obj\Debug\Player.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v9\TienLen\Player\obj\Debug\HienBai.Form1.resources
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v9\TienLen\Player\obj\Debug\Player.Properties.Resources.resources
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v9\TienLen\Player\obj\Debug\Player.WaitingRoom.resources
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v9\TienLen\Player\obj\Debug\Player.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v9\TienLen\Player\obj\Debug\Player.exe
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v9\TienLen\Player\obj\Debug\Player.pdb
+E:\HocKi4\LapTrinhMangCanBan\project\TienLen_v9.1\TienLen_v9\TienLen\Player\bin\Debug\Player.exe.config
+E:\HocKi4\LapTrinhMangCanBan\project\TienLen_v9.1\TienLen_v9\TienLen\Player\bin\Debug\Player.exe
+E:\HocKi4\LapTrinhMangCanBan\project\TienLen_v9.1\TienLen_v9\TienLen\Player\bin\Debug\Player.pdb
+E:\HocKi4\LapTrinhMangCanBan\project\TienLen_v9.1\TienLen_v9\TienLen\Player\bin\Debug\Newtonsoft.Json.dll
+E:\HocKi4\LapTrinhMangCanBan\project\TienLen_v9.1\TienLen_v9\TienLen\Player\bin\Debug\Newtonsoft.Json.xml
+E:\HocKi4\LapTrinhMangCanBan\project\TienLen_v9.1\TienLen_v9\TienLen\Player\obj\Debug\Player.csprojResolveAssemblyReference.cache
+E:\HocKi4\LapTrinhMangCanBan\project\TienLen_v9.1\TienLen_v9\TienLen\Player\obj\Debug\HienBai.Form1.resources
+E:\HocKi4\LapTrinhMangCanBan\project\TienLen_v9.1\TienLen_v9\TienLen\Player\obj\Debug\Player.Properties.Resources.resources
+E:\HocKi4\LapTrinhMangCanBan\project\TienLen_v9.1\TienLen_v9\TienLen\Player\obj\Debug\Player.WaitingRoom.resources
+E:\HocKi4\LapTrinhMangCanBan\project\TienLen_v9.1\TienLen_v9\TienLen\Player\obj\Debug\Player.csproj.GenerateResource.Cache
+E:\HocKi4\LapTrinhMangCanBan\project\TienLen_v9.1\TienLen_v9\TienLen\Player\obj\Debug\Player.exe
+E:\HocKi4\LapTrinhMangCanBan\project\TienLen_v9.1\TienLen_v9\TienLen\Player\obj\Debug\Player.pdb
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v11\TienLen\Player\bin\Debug\Player.exe.config
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v11\TienLen\Player\bin\Debug\Player.exe
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v11\TienLen\Player\bin\Debug\Player.pdb
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v11\TienLen\Player\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v11\TienLen\Player\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v11\TienLen\Player\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v11\TienLen\Player\obj\Debug\Player.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v11\TienLen\Player\obj\Debug\Player.Properties.Resources.resources
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v11\TienLen\Player\obj\Debug\Player.WaitingRoom.resources
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v11\TienLen\Player\obj\Debug\Player.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v11\TienLen\Player\obj\Debug\Player.exe
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v11\TienLen\Player\obj\Debug\Player.pdb
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v11\TienLen\Player\obj\Debug\HienBai.frmRoom.resources
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v13\TienLen_v13\TienLen\Player\bin\Debug\Player.exe.config
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v13\TienLen_v13\TienLen\Player\bin\Debug\Player.exe
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v13\TienLen_v13\TienLen\Player\bin\Debug\Player.pdb
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v13\TienLen_v13\TienLen\Player\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v13\TienLen_v13\TienLen\Player\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v13\TienLen_v13\TienLen\Player\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v13\TienLen_v13\TienLen\Player\obj\Debug\Player.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v13\TienLen_v13\TienLen\Player\obj\Debug\HienBai.frmRoom.resources
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v13\TienLen_v13\TienLen\Player\obj\Debug\Player.Properties.Resources.resources
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v13\TienLen_v13\TienLen\Player\obj\Debug\Player.WaitingRoom.resources
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v13\TienLen_v13\TienLen\Player\obj\Debug\Player.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v13\TienLen_v13\TienLen\Player\obj\Debug\Player.exe
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_v13\TienLen_v13\TienLen\Player\obj\Debug\Player.pdb
+C:\Users\TGDD\Desktop\TienLen\TienLen_v13\TienLen_v13\TienLen\Player\bin\Debug\Player.exe.config
+C:\Users\TGDD\Desktop\TienLen\TienLen_v13\TienLen_v13\TienLen\Player\bin\Debug\Player.exe
+C:\Users\TGDD\Desktop\TienLen\TienLen_v13\TienLen_v13\TienLen\Player\bin\Debug\Player.pdb
+C:\Users\TGDD\Desktop\TienLen\TienLen_v13\TienLen_v13\TienLen\Player\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TGDD\Desktop\TienLen\TienLen_v13\TienLen_v13\TienLen\Player\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TGDD\Desktop\TienLen\TienLen_v13\TienLen_v13\TienLen\Player\obj\Debug\Player.csprojResolveAssemblyReference.cache
+C:\Users\TGDD\Desktop\TienLen\TienLen_v13\TienLen_v13\TienLen\Player\obj\Debug\HienBai.frmRoom.resources
+C:\Users\TGDD\Desktop\TienLen\TienLen_v13\TienLen_v13\TienLen\Player\obj\Debug\Player.Properties.Resources.resources
+C:\Users\TGDD\Desktop\TienLen\TienLen_v13\TienLen_v13\TienLen\Player\obj\Debug\Player.WaitingRoom.resources
+C:\Users\TGDD\Desktop\TienLen\TienLen_v13\TienLen_v13\TienLen\Player\obj\Debug\Player.csproj.GenerateResource.Cache
+C:\Users\TGDD\Desktop\TienLen\TienLen_v13\TienLen_v13\TienLen\Player\obj\Debug\Player.csproj.CoreCompileInputs.cache
+C:\Users\TGDD\Desktop\TienLen\TienLen_v13\TienLen_v13\TienLen\Player\obj\Debug\Player.exe
+C:\Users\TGDD\Desktop\TienLen\TienLen_v13\TienLen_v13\TienLen\Player\obj\Debug\Player.pdb
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_PreComplete_v1\TienLen_v13\TienLen_v13\TienLen\Player\bin\Debug\Player.exe.config
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_PreComplete_v1\TienLen_v13\TienLen_v13\TienLen\Player\bin\Debug\Player.exe
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_PreComplete_v1\TienLen_v13\TienLen_v13\TienLen\Player\bin\Debug\Player.pdb
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_PreComplete_v1\TienLen_v13\TienLen_v13\TienLen\Player\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_PreComplete_v1\TienLen_v13\TienLen_v13\TienLen\Player\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_PreComplete_v1\TienLen_v13\TienLen_v13\TienLen\Player\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_PreComplete_v1\TienLen_v13\TienLen_v13\TienLen\Player\obj\Debug\Player.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_PreComplete_v1\TienLen_v13\TienLen_v13\TienLen\Player\obj\Debug\HienBai.frmRoom.resources
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_PreComplete_v1\TienLen_v13\TienLen_v13\TienLen\Player\obj\Debug\Player.Properties.Resources.resources
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_PreComplete_v1\TienLen_v13\TienLen_v13\TienLen\Player\obj\Debug\Player.WaitingRoom.resources
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_PreComplete_v1\TienLen_v13\TienLen_v13\TienLen\Player\obj\Debug\Player.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_PreComplete_v1\TienLen_v13\TienLen_v13\TienLen\Player\obj\Debug\Player.exe
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\TienLen_PreComplete_v1\TienLen_v13\TienLen_v13\TienLen\Player\obj\Debug\Player.pdb
